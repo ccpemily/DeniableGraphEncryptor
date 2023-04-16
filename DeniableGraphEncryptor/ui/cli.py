@@ -1,0 +1,6 @@
+class CInterface(object):
+    pass
+
+
+
+
